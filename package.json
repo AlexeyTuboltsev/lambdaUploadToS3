@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "file-type": "^15.0.0",
-    "moment": "^2.27.0"
+    "file-type": "^15.0.0"
   }
 }
