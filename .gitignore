@@ -1,0 +1,25 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Compiled output
+build
+
+# Dependency directories
+node_modules
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Cryptographic keys
+*.pem
+
+# Remove jetbrains
+.idea
+
+#ignore deployment archives
+lambdaUploadToS3.zip
